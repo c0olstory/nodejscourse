@@ -1,0 +1,24 @@
+{
+  "name": "node.js-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js 10 20"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c0olstory/nodejscourse.git"
+  },
+  "author": "vv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/c0olstory/nodejscourse/issues"
+  },
+  "homepage": "https://github.com/c0olstory/nodejscourse#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
